@@ -1,10 +1,10 @@
-# Display 7 segmentos jumbo
+# Big Display 7 segments 
 
 ## Materials 
 
 Count| Description
--|-|
-35|LEDs white
+:-:|-|
+35|LEDs white (3V)
 35|R32 (Re)
 35|4k2 (Rb)
 7|2N2222
@@ -13,8 +13,8 @@ Count| Description
 
 ## Calculates
 
-[View](Calculate.md)
+Details about calculates [View](Calculate.md)
 
 ## Schematic
 
-![schemactic](schematic/7seg_jumbo/7seg_jumbo.svg)
+![schematic](schematic/7seg_jumbo/7seg_jumbo.svg)
